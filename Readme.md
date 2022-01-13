@@ -106,5 +106,5 @@ add:
 
 ### Software Engineering, 2020 - 2022
 
-- 1st year - 2nd semester
-- Software Design - Assessment
+- 2st year � 1st semester
+- Software Oriented Architecture - Assessment
